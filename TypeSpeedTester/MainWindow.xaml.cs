@@ -36,7 +36,7 @@ namespace TypeSpeedTester
             clock = new DispatcherTimer();
             clock.Interval = new TimeSpan(0, 0, 1);
             clock.Tick += clock_Tick;
-
+            var somethingForGitHub = 2;
             
         }
 
