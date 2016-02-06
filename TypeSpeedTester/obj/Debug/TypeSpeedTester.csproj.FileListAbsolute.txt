@@ -15,3 +15,6 @@ C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\TypeSpeedTe
 C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\bin\Debug\TypeSpeedTester.application
 C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.exe.manifest
 C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.application
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\testRepo1\TypeSpeedTester\bin\Debug\TypeSpeedTester.exe.config
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\testRepo1\TypeSpeedTester\obj\Debug\TypeSpeedTester.exe
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\testRepo1\TypeSpeedTester\obj\Debug\TypeSpeedTester.pdb
