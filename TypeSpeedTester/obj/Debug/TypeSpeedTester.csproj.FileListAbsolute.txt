@@ -1,0 +1,17 @@
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\bin\Debug\TypeSpeedTester.exe.config
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\bin\Debug\TypeSpeedTester.exe
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\bin\Debug\TypeSpeedTester.pdb
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.csprojResolveAssemblyReference.cache
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\MainWindow.baml
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\MainWindow.g.cs
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\App.g.cs
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester_MarkupCompile.cache
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.g.resources
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.Properties.Resources.resources
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.csproj.GenerateResource.Cache
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.exe
+c:\users\alita\documents\visual studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.pdb
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\bin\Debug\TypeSpeedTester.exe.manifest
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\bin\Debug\TypeSpeedTester.application
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.exe.manifest
+C:\Users\Alita\Documents\Visual Studio 2013\Projects\TypeSpeedTester\TypeSpeedTester\obj\Debug\TypeSpeedTester.application
